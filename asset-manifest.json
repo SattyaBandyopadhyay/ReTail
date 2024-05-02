@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReTail/static/css/main.65694cae.css",
+    "main.js": "/ReTail/static/js/main.7be0a1c4.js",
+    "index.html": "/ReTail/index.html",
+    "main.65694cae.css.map": "/ReTail/static/css/main.65694cae.css.map",
+    "main.7be0a1c4.js.map": "/ReTail/static/js/main.7be0a1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65694cae.css",
+    "static/js/main.7be0a1c4.js"
+  ]
+}
